@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Toyota_T100"
+
+generations:
+  - name: "First Generation"
+    start_year: 1993
+    end_year: 1998
+    description: "A full-size pickup with 3.0 L 3VZ-E V6, 2.7 L 3RZ-FE and 3.4 L 5VZ-FE engines."
